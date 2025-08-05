@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shivam tonpe</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer and backend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivam77kk&label=Profile%20views&color=0e75b6&style=flat" alt="shivam77kk" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Bachelor of Computer Application**
 
-- 💬 Ask me about **Python, MySQL, Django, HTMl/CSS , CPP**
+- 💬 Ask me about **Python, MySQL, Django, HTMl/CSS ,JS ,Mongodb ,react ,nodejs , expressjs , CPP** 
 
 - 📫 How to reach me **shivamtonpe175@gmail.com**
 
